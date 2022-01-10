@@ -9,6 +9,11 @@
 ########################################################################
 
 #######################
+
+# Include all file types located in the documentation folder
+!documentation/
+
+#######################
 # Start by ignoring everything, and below we are explicitly saying
 # what to not ignore
 *
