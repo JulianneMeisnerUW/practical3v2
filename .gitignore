@@ -10,7 +10,7 @@
 
 #######################
 
-# Include all file types located in the documentation folder
+# Include all file types located in the Documentation folder
 !/**/documentation/
 
 #######################
