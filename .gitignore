@@ -9,14 +9,14 @@
 ########################################################################
 
 #######################
-
-# Include all file types located in the Documentation folder
-!documentation/*.xlsx
-
-#######################
 # Start by ignoring everything, and below we are explicitly saying
 # what to not ignore
 *
+
+#######################
+
+# Include all file types located in the Documentation folder
+!documentation/*.xlsx
 
 #######################
 # List of files with GitHub functionality anywhere in the repo
